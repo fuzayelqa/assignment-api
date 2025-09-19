@@ -14,14 +14,15 @@ Clone This Project [Employee API Project](https://github.com/fuzayelqa/assignmen
 
 **Hit The Command**
 ```bash
-
-``bash
-npm i newman
-...
-
---This is facilitate to copy button enble  
----bash
-npx newman run [collection secret key]
+Installation Process:
+❑ npm init -y
+❑ npm i newman
+❑ npx newman run [collection secret key]
+❑ npm i newman-reporter-htmlextra
+❑ Create a new Reports Folder
+❑ Create reports.js file and Paste reports.js file code
+❑ Run the command :: node .\report.js
+for package hide install :: npm i dotenv
 ```
 
 **API Documentation** (https://documenter.getpostman.com/view/29633371/2sB3HrmxTc)
