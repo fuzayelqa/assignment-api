@@ -3,7 +3,7 @@
 - Postman 
 - NodeJS 
 - Visual Studio Code 
-
+ 
 **About This Project** 
 This is Employee API collection automation project. Here we have Create, update, get data and delete Employee information with assertion.  
 Here we have validate the test case and generate newman report.
