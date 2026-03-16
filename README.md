@@ -1,5 +1,5 @@
 ## Employee API With Newman Report  
-## Prerequisite** 
+## Prerequisite**  
 - Postman
 - NodeJS 
 - Visual Studio Code  
