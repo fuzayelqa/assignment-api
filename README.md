@@ -1,6 +1,6 @@
 ## Employee API With Newman Report     
 ## Prerequisite**     
-- Postman
+- Postman 
 - NodeJS 
 - Visual Studio Code  
  
